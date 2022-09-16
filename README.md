@@ -105,9 +105,3 @@ Example: char letterA = 'A'
 
 -----------
 
-#### Why char uses 2 byte in java and what is \u0000 ?
-
-It is because java uses Unicode system not ASCII code system. The \u0000 is the lowest range of Unicode system. To get detail explanation about Unicode visit next page. 
-  
-  
---------
